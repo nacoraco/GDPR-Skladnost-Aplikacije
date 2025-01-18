@@ -1,2 +1,3 @@
 # GDPR-Skladnost-Aplikacije
-Projekt za simulacijo razvoja aplikacije z upoštevanjem GDPR zahtev.
+Ta projekt simulira razvoj in nadgradnjo spletne aplikacije za priglasitev državnih pomoči, skladno z GDPR.
+
